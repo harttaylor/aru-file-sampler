@@ -21,7 +21,7 @@ remotes::install_github("ABbiodiversity/wildRtrax")
 1. Clone this repository or download the script and open in RStudio
 2. Ensure all required packages are installed and you have R version 4.4.0 or higher
 3. Update the following variables in the script:
- - PATH: Base directory containing ARU recordings
- - file_destination: Where you want the selected files to be copied
- - locations: Path to your CSV file containing location names
- - numberofrecordings <- 5  # Change this to sample more/fewer recordings
+    - PATH: Base directory containing ARU recordings
+    - file_destination: Where you want the selected files to be copied
+    - locations: Path to your CSV file containing location names
+    - numberofrecordings <- 5  # Change this to sample more/fewer recordings

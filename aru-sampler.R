@@ -9,7 +9,6 @@
 # 5. Copies selected files to a destination folder for WildTrax upload
 ################################################################################
 
-
 # Load required packages
 library(dplyr)
 library(reticulate)
