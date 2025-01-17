@@ -8,7 +8,6 @@ A tool for randomly sampling Autonomous Recording Unit (ARU) audio files from th
 
 ## Prerequisites
 - R (version 4.4.0 or higher)
-- RStudio (recommended)
 
 ## Required R Packages
 ```R
